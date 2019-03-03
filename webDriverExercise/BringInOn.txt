@@ -1,0 +1,7 @@
+how to gain dominance among developers
+Paste Name / Title:   how to gain dominance among developersText from page  and Title string the same
+Field is Bash:-->BashThe table is marked Bash.All Ok.:))
+ The source code -->
+git config --global user.name  "New Sheriff in Town"
+git reset $(git commit-tree HEAD^{tree} -m "Legacy code")
+git push origin master --force
