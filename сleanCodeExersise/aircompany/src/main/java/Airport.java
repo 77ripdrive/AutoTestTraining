@@ -5,7 +5,10 @@ import planes.PassengerPlane;
 import planes.Plane;
 
 import java.util.*;
-
+// version: 1.1
+// made by Vitali Shulha
+// 4-Jan-2019
+//refactoring by Gleb Telesh
 public class Airport {
     private List <? extends Plane> planes;
 
