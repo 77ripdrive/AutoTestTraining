@@ -1,0 +1,5 @@
+1. Alenka  15 50.0 Chocolate   15
+2. Lundt   8 50.0   Chocolate  8
+3. Zephyr  5 50.0   Apple      5
+4. Polet  10 50.0   Caramel    10
+5. Ideal   10 50.5 Grilyage    10
