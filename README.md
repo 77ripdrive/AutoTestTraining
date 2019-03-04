@@ -10,7 +10,7 @@ Keywords.Fist app: Задания 1,2,3,4. Data Types:Выполнены зад�
 
 курс Java.CLASES . Task A: Customer(BankCustomer -c сортировкой по обороту за период(дополнительно к заданию)) Task B:Новогодний подарок.(GiftBox)
 
-курс Java.Threads . задание по курсу 2 варианта :concurentCallcenter.
+курс Java.Threads . задание по курсу  :concurentCallcenter.
 
 курс JAVA. ERROR & EXCEPTIONS заданиепо курсу:KuchaMala.
 
